@@ -1,0 +1,1 @@
+Provide name of function and module, and get the memory address off. Output is formatted as in standard shellcode.
